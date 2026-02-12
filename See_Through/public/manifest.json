@@ -1,0 +1,12 @@
+{
+    "name": "See Through",
+    "version": "0.0.0",
+    "manifest_version": 1,
+    "actions": {
+        "title": "See Through",
+        "icon": "helios.jpg",
+        "popover": "/",
+        "height": 600,
+        "width": 400
+    }
+}
